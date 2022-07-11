@@ -35,8 +35,7 @@
 
 ## Overview
 
-![screenshot](images/filename%20404Error.png)
-
+![404Error](https://user-images.githubusercontent.com/91824236/178299773-4bb5aeb0-98d0-45fa-9f79-8dd695b1e064.png)
 - You can see my created webpage on this link: https://cool26.github.io/404-error-responsive-webpage/
 - I am struggling with responsive web design.
 - I tried writing media queries and also uses rem units in the project to make it responsive.
