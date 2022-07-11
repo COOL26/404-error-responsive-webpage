@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](images/filename%20404Error.png)
 
 - You can see my created webpage on this link: https://cool26.github.io/404-error-responsive-webpage/
 - I am struggling with responsive web design.
