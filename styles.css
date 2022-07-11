@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Mingzat", sans-serif;
+  color: rgb(48, 46, 46);
+}
+
+header h4 {
+  position: absolute;
+  margin: 1.375rem 2.75rem;
+}
+
+img {
+  max-height: 30rem;
+  min-height: 20rem;
+  max-width: 35rem;
+  min-width: 25rem;
+  object-fit: cover;
+}
+
+.box {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mini-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 35rem;
+  height: 38rem;
+  margin: 0 4rem;
+  line-height: 1.5;
+}
+
+.mini-box h1 {
+  font-size: 4rem;
+  word-spacing: 3px;
+}
+
+.mini-box p {
+  font-size: 1.5rem;
+  word-spacing: 20px;
+  letter-spacing: 2px;
+}
+
+.mini-box a {
+  text-align: center;
+  width: 16rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 22px;
+  background-color: rgb(48, 46, 46);
+  color: white;
+}
+
+@media screen and (max-width: 880px) {
+  header h4 {
+    margin: 0.5rem 1rem;
+  }
+  img {
+    margin-top: 12rem;
+    object-fit: cover;
+  }
+  .box {
+    position: relative;
+    top: 100px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .mini-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    line-height: 1.5;
+  }
+  .mini-box h1 {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+  }
+  .mini-box p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .mini-box a {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
