@@ -53,6 +53,9 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
+- The site uses rem units which make the font size and other CSS properties responsive.
+- Added media queries for the smaller screens.
+
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Contact
