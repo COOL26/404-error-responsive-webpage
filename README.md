@@ -40,18 +40,17 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see my created webpage on this link: https://cool26.github.io/404-error-responsive-webpage/
+- I am struggling with responsive web design.
+- I tried writing media queries and also uses rem units in the project to make it responsive.
+- I tried something new which feels good. :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://html.com/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Features
 
@@ -59,17 +58,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
 - Website [your-website.com](https://cool26.github.io/404-error-responsive-webpage/)
 - GitHub [@your-username](https://github.com/COOL26)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
