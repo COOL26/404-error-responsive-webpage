@@ -16,8 +16,6 @@ header h4 {
 img {
   max-height: 30rem;
   min-height: 20rem;
-  max-width: 35rem;
-  min-width: 25rem;
   object-fit: cover;
 }
 
