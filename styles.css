@@ -57,8 +57,38 @@ img {
   background-color: rgb(48, 46, 46);
   color: white;
 }
+.mini-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 35rem;
+  height: 38rem;
+  margin: 0 4rem;
+  line-height: 1.5;
+}
 
-@media screen and (max-width: 880px) {
+.mini-box h1 {
+  font-size: 4rem;
+  word-spacing: 3px;
+}
+
+.mini-box p {
+  font-size: 1.5rem;
+  word-spacing: 20px;
+  letter-spacing: 2px;
+}
+
+.mini-box a {
+  text-align: center;
+  width: 16rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 22px;
+  background-color: rgb(48, 46, 46);
+  color: white;
+}
+
+@media screen and (max-width: 1115px) {
   header h4 {
     margin: 0.5rem 1rem;
   }
@@ -80,22 +110,14 @@ img {
   }
   .mini-box h1 {
     font-size: 2rem;
-    /* margin-top: 2rem; */
-    margin-bottom: -2rem;
+    margin-bottom: -8%;
   }
   .mini-box p {
     font-size: 1.25rem;
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
+    margin-top: 5%;
   }
-  /* .button {
-    width: 100%;
-    display: flex;
-    align-items: left;
-  } */
   .mini-box a {
     font-size: 0.9rem;
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
+    margin-bottom: 3px;
   }
 }
