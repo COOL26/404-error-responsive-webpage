@@ -73,9 +73,9 @@ img {
     flex-direction: column;
   }
   .mini-box {
-    width: 100%;
+    width: 75%;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     line-height: 1.5;
   }
   .mini-box h1 {
